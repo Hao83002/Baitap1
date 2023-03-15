@@ -1,6 +1,5 @@
-//void main() {
-  //print('Hello I am “John Doe”');
-//}
 void main() {
-  print(' Hello I’am “John Doe” ');
+  const int a = 7;
+
+  print("Declare constant type** of int set value $a");
 }
